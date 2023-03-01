@@ -1,1 +1,1 @@
-Codes have written done in JS! 
+Codes are written in JS! 
